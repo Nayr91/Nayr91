@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nayr91
 - 👀 I’m interested in gaming, football and coding
-- 🌱 I’m currently learning Python as my first language with the idea of picking up C# or Javascript next
-- 💞️ I’m looking to collaborate on Nothing right now - currently too inexperienced to do so - Hopefully this will change
-- 📫 How to reach me my discord - the user name is the same as on here :)
+- 🌱 My primary language is Python - I am aiming to move into working with Data and Machine Learning. Currently studying on Codecademy on the NLP Data Science course. 
+- 💞️ Open to colaborations, let me know if you have any interest. 
+- 📫 Reach me on my Discord which is Nayr91, or via email ryanabc91@gmail.com.
 
 <!---
 Nayr91/Nayr91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
